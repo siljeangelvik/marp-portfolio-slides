@@ -1,6 +1,9 @@
 # Portfolio 2 Brief
 
-[Brief](https://cloudplayer-eu.bravais.com/preview?p=kRTsMajAj4PrGZy5Sgp1gf6f0DZsjMMOZqafYdE3WuXQ9hYhvgzZMRTKAfzlABrMYValqWcch5gLyvphIKrCtSsQ82atezLAI1kyiI1mr/e11hQbsqo/N3/Sf2ULShWWYmirAHb27PG6udDeQm/N8FBWXHV5QkMDO2ZfYDYrjkIZeMOIzVtjlDS5Wcw70nIClPg1Z8PBx3I1Xr49GnbUYSsuSKY+oAjDmYfHvtiOdYjpyNzA2SOxdwTizSO8XYeQsKCuOZeQUlrq3pluaMxRX71f740e+6Y4ubfHQqeNVtgRRuST7PBeO+EnUVLHzH30Ay/TYy2GA81RJc+6H+r8uc7VU0lK9sOQWqLGsoooFRU6W3LLfKkafA9SD39k6RSBjYR66YUQTRUA7Mp6WCwnGfggqss3dC0lVGDC6c9zBk8shpS3BTpN7aWup8lFkrvx6FVmWRsIDeYwDJRUb3Wz/lt2w1jJ9KRNV9x83/yp9ATsTIPnKuLKS4mhYXAt7ikBS23AEpQQv7DgnAjgbMSFgDOpMvwLU/KX3qdiFIKH2O1jrav3piFUBFWsd/Wap7nQF+kRI+zEGR0TPyjTz+RVAh+RwRURVq4T/wGcOXaAxa7qc4T8UIUFZd1NKP8nWyzHAXsrAXL470kiW3hCa7woddnR/HdUk/hZf9J/ZQtKFZZiaKsAdvbs8bq50N5Cb83wUFZcdXlCQwPjghbL+YjnocZgGBM11CRFnO2UFIyLlzIGLDbvuelwnmZJ00H2xUpWuNH57DtVLqLh7/JjBUJDiow131mRarfCO5LYSHq3PA0ed2JkxKdm6ChrCUXNigoDf9J/ZQtKFZbfhzaOtOhwaBKSALObed/c/U1O3E2CukcY2XF9yEoZey1mPvXnZXtjOmWWiGGIZRshiRYYgcNm+AWyzWYDM11g7mfQqhb3JEJA4+9Bxh6zvGX1/L0o/MHoFP+VZ4GkiC3/A+HS07fmltg9R6RGzSsCzngxpXv4I4pH76ntJkvK9r5gqozW5xfQdJB5qZ3eApeAE8ihZ8IKkRMAWVdv4QSWouoj3Nqikdb+tPi57xBg858ZZKISbdvEX1fWbIXX5hgNhYhG+tC+WYcoiclOIc/sXMO1+PxypXNuFhB6kq/tVsD6gsYyJflFeM7l9j9P7/U=&lastCDSsessionCheck=1686133452185)
+**Student:** [Silje Angelvik](https://github.com/siljeangelvik)  
+**Host:** N/A  
+**Repository:** [GitHub](https://github.com/siljeangelvik/marp-portfolio-slides)  
+**Resources:** [Brief](https://cloudplayer-eu.bravais.com/preview?p=kRTsMajAj4PrGZy5Sgp1gf6f0DZsjMMOZqafYdE3WuXQ9hYhvgzZMRTKAfzlABrMYValqWcch5gLyvphIKrCtSsQ82atezLAI1kyiI1mr/e11hQbsqo/N3/Sf2ULShWWYmirAHb27PG6udDeQm/N8FBWXHV5QkMDO2ZfYDYrjkIZeMOIzVtjlDS5Wcw70nIClPg1Z8PBx3I1Xr49GnbUYSsuSKY+oAjDmYfHvtiOdYjpyNzA2SOxdwTizSO8XYeQsKCuOZeQUlrq3pluaMxRX71f740e+6Y4ubfHQqeNVtgRRuST7PBeO+EnUVLHzH30Ay/TYy2GA81RJc+6H+r8uc7VU0lK9sOQWqLGsoooFRU6W3LLfKkafA9SD39k6RSBjYR66YUQTRUA7Mp6WCwnGfggqss3dC0lVGDC6c9zBk8shpS3BTpN7aWup8lFkrvx6FVmWRsIDeYwDJRUb3Wz/lt2w1jJ9KRNV9x83/yp9ATsTIPnKuLKS4mhYXAt7ikBS23AEpQQv7DgnAjgbMSFgDOpMvwLU/KX3qdiFIKH2O1jrav3piFUBFWsd/Wap7nQF+kRI+zEGR0TPyjTz+RVAh+RwRURVq4T/wGcOXaAxa7qc4T8UIUFZd1NKP8nWyzHAXsrAXL470kiW3hCa7woddnR/HdUk/hZf9J/ZQtKFZZiaKsAdvbs8bq50N5Cb83wUFZcdXlCQwPjghbL+YjnocZgGBM11CRFnO2UFIyLlzIGLDbvuelwnmZJ00H2xUpWuNH57DtVLqLh7/JjBUJDiow131mRarfCO5LYSHq3PA0ed2JkxKdm6ChrCUXNigoDf9J/ZQtKFZbfhzaOtOhwaBKSALObed/c/U1O3E2CukcY2XF9yEoZey1mPvXnZXtjOmWWiGGIZRshiRYYgcNm+AWyzWYDM11g7mfQqhb3JEJA4+9Bxh6zvGX1/L0o/MHoFP+VZ4GkiC3/A+HS07fmltg9R6RGzSsCzngxpXv4I4pH76ntJkvK9r5gqozW5xfQdJB5qZ3eApeAE8ihZ8IKkRMAWVdv4QSWouoj3Nqikdb+tPi57xBg858ZZKISbdvEX1fWbIXX5hgNhYhG+tC+WYcoiclOIc/sXMO1+PxypXNuFhB6kq/tVsD6gsYyJflFeM7l9j9P7/U=&lastCDSsessionCheck=1686133452185)
 
 ## Goal
 
@@ -28,7 +31,6 @@ This page must:
   - a screenshot of how the project looks when running,
   - a link to the GitHub repo and a live site if it is online.
 
-
 > **NOTE** ℹ️
 > 
 > For **ONLINE** students, it is fine if the link is to a private Noroff repo and can’t be accessed by the general public.    
@@ -39,8 +41,7 @@ This page must:
 >
 > Project Exam 2 might still be getting marked. Do not make any changes to your submission other than the README.md as detailed in the Level 1 Process below.  
 >
-> https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme  
-
+> https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 ## Level 1 Process
 
