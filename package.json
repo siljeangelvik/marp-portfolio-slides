@@ -1,0 +1,19 @@
+{
+  "name": "marp-portfolio-slides",
+  "version": "1.0.0",
+  "description": "## Semester Project 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siljeangelvik/marp-portfolio-slides.git"
+  },
+  "author": "Silje A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siljeangelvik/marp-portfolio-slides/issues"
+  },
+  "homepage": "https://github.com/siljeangelvik/marp-portfolio-slides#readme"
+}
